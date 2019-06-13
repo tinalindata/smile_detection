@@ -1,2 +1,2 @@
 # Smil Detection
-###### Tina Lin 
+###### Tina Lin &bull; 12/2018
